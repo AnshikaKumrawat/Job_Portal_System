@@ -209,16 +209,3 @@ private static final String PASSWORD = "your_mysql_password";
 - **Dynamic Search** — Title, category, location filters combined using dynamic SQL
 - **Responsive UI** — Bootstrap 5 with custom CSS for clean, modern design
 
----
-
-## 🙋‍♀️ Author
-
-**Anshika Kumrawat**  
-Java Full Stack Developer  
-🔗 [GitHub Profile](https://github.com/AnshikaKumrawat)
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
